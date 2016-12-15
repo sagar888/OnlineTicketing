@@ -1,0 +1,13 @@
+com\test\basic\web\init\BasicMvcConfig.class
+com\test\basic\web\entity\User.class
+com\test\basic\web\utils\BasicSessionImpl.class
+com\test\basic\web\Constants\BasicWebConstants.class
+com\test\basic\web\init\BasicWebConfiguration.class
+com\test\basic\web\Controller\BasicController.class
+com\test\basic\web\utils\BasicSession.class
+com\test\basic\web\init\BasicWebAppInitialiser.class
+com\test\basic\web\services\RequoteSummaryImpl.class
+com\test\basic\web\repository\RequoteSummaryRepository.class
+com\test\basic\web\services\RequoteSummary.class
+com\test\basic\web\repository\RequoteSummaryRepositoryImpl.class
+com\test\basic\web\entity\AffectedPlaces.class
